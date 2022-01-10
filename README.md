@@ -44,8 +44,8 @@ We are doing this project in symfony 5 always double check if i'm using document
 
 ## Log / self-reflection
 Day 1: Monday 10/01/22
-9:05 - 9:35 Read challenge repo readme, start and add necessary info in my readme on this repo, install symfony 5
-
+9:05 - 09:35: Read challenge repo readme, start and add necessary info in my readme on this repo, install symfony 5
+9:35 - 12:30: configuring setup for server and figuring out 403 error with the routing for 
 
 
 

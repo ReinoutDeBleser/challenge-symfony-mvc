@@ -1,3 +1,7 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
+index:
+     path: /
+     controller: App\Controller\ShowMyNameController::homepage
+
+aboutMe:
+     path: /aboutMe/
+     controller: App\Controller\AboutMeController::index
