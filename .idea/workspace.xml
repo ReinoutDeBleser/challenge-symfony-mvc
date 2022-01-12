@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ab575ba-1f60-4a24-8506-a7293adf1c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/AboutMeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/LearningController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about_me/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/learning/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Form/UserType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/AboutMeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ChangeMyNameController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/LearningController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ShowMyNameController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ShowMyNameController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about_me/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about_me/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/change_my_name/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/change_my_name/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/learning/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/form/new.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/show_my_name/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/show_my_name/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +180,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -192,7 +200,9 @@
       <updated>1641812471369</updated>
       <workItem from="1641812472958" duration="4611000" />
       <workItem from="1641823954184" duration="59000" />
-      <workItem from="1641824430369" duration="3241000" />
+      <workItem from="1641824430369" duration="6260000" />
+      <workItem from="1641837258777" duration="593000" />
+      <workItem from="1641888223437" duration="35706000" />
     </task>
     <servers />
   </component>
